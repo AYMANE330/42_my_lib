@@ -14,7 +14,7 @@ cd 42_my_lib
 make
 ```
 3. You should see a `libs.a` file and some object files (`.o`).
-4. Now you can use the library in your C programs by including the header files and linking the library <file.c>. For example:
+4. Now you can use the library in your C programs by including the header files and linking the library. For example:
 ```c
 #include "includes.h"
 #include <stdio.h>
