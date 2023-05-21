@@ -10,6 +10,7 @@ To use the 42_my_lib , you first need to create the library file by compiling th
 2. Run the `make` command.
 ```
 git clone https://github.com/AYMANE330/42_my_lib
+cd 42_my_lib
 make
 ```
 3. You should see a `libs.a` file and some object files (`.o`).
