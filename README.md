@@ -32,7 +32,7 @@ int main()
 cc <file.c> libs.a -o <name of ur program>
 ```
 ## Contribution
-If you would like to contribute to the Libft library, feel free to create a pull request. Before submitting your changes, please make sure that your code follows the [42 norm](https://github.com/42School/norminette). 
+If you would like to contribute to the 42_my_lib , feel free to create a pull request. Before submitting your changes, please make sure that your code follows the [42 norm](https://github.com/42School/norminette).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
